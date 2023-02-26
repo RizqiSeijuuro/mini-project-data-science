@@ -2,3 +2,7 @@
 -e .
 
 # external requirements
+pandas
+numpy
+matplotlib
+seaborn
