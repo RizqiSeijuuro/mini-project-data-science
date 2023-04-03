@@ -3,6 +3,8 @@ mini-project-data-science
 
 mini project data science for DSLS 2023
 
+Link Report: https://docs.google.com/presentation/d/1pr7eGjNlFs60EBabQLxphMSqJrbGKOoeBV-9rVz14wU/edit?usp=sharing
+
 Project Organization
 ------------
 
